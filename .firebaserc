@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "contactform-ecc64": {
+      "hosting": {
+        "angular-login": [
+          "contactformchumo"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "contactform-ecc64"
+  }
+}
